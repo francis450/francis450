@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamande Njoroge</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on front-end web development with react [Personal Projects](https://github.com/francis450/Restaurant-ReactApp)
+- 🔭 I’m currently learning intermediate java specifically Spring framework [Personal Projects](https://github.com/francis450/Restaurant-ReactApp)
 
 - 👨‍💻 All of my projects are available at [github.com/francis450](github.com/francis450)
 
