@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kamande Njoroge</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate business layer developer from Kenya</h3>
 
-- 🔭 I’m currently learning intermediate java specifically Spring framework [Personal Projects](https://github.com/francis450/Restaurant-ReactApp)
+- 🔭 I’m currently learning intermediate java ,Spring framework [Personal Projects](https://github.com/francis450/Restaurant-ReactApp)
 
 - 👨‍💻 All of my projects are available at [github.com/francis450](github.com/francis450)
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
-- 💬 Ask me about **react, Java, Mysql, C & C++**
+- 💬 Ask me about **react, Java(Spring), Mysql, C & C++**
 
 - 📫 How to reach me **franciskamande2001@gmail.com**
 
-- ⚡ Fun fact **I'm also quite a good business man.**
+- ⚡ Fun fact **I don't have a girlfriend incase you were wondering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
