@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/francis450](github.com/francis450)
 
-- 📝 I regularly write articles on [medium.com](medium.com)
+- 📝 I regularly write articles on [https://medium.com/@franciskamande2001](medium.com)
 
 - 💬 Ask me about **react, Java(Spring), Mysql, C & C++**
 
