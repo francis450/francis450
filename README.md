@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **franciskamande2001@gmail.com**
 
-- ⚡ Fun fact **I don't have a girlfriend incase you were wondering.**
+- ⚡ Fun fact **Am actually very funny **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
