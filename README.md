@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning intermediate java ,Spring framework [Personal Projects](https://github.com/francis450/Restaurant-ReactApp)
 
-- 👨‍💻 All of my projects are available at [github.com/francis450](github.com/francis450)
+- 👨‍💻 All of my projects are available at [https://francis450.github.io/njoroge-francis/](Francis)
 
 - 📝 I regularly write articles on [https://medium.com/@franciskamande2001](medium.com)
 
