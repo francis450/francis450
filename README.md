@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Francis Kamande!  
+# 👋 Hello, I'm Francis!  
 
 🚀 **ERP & Software Developer | IT Consultant | Digital Transformation Specialist**  
 
