@@ -37,7 +37,7 @@ I'm a **developer** passionate about **ERPNext, enterprise software solutions, a
 ## 📬 **Let's Connect**  
 
 💼 [LinkedIn](https://www.linkedin.com/in/njoroge-francis)  
-📧 **Email:** franciskamande2001@gmail.com  
-🌍 **Website:** [Portfolio](https://francis450.github.io/portfolio)  
+📧 franciskamande2001@gmail.com  
+🌍 [Portfolio](https://francis450.github.io/portfolio)  
 
 🚀 Always open to **collaborations, consultations, and freelance projects!**  
