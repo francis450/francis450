@@ -36,8 +36,8 @@ I'm a **developer** passionate about **ERPNext, enterprise software solutions, a
 
 ## 📬 **Let's Connect**  
 
-💼 [LinkedIn](https://www.linkedin.com/in/francis-kamande)  
-📧 **Email:** franciskamande@example.com  
-🌍 **Website:** [Your Portfolio](https://yourwebsite.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/njoroge-francis)  
+📧 **Email:** franciskamande2001@gmail.com  
+🌍 **Website:** [Portfolio](https://francis450.github.io/portfolio)  
 
 🚀 Always open to **collaborations, consultations, and freelance projects!**  
