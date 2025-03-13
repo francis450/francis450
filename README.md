@@ -17,7 +17,7 @@ I'm a **developer** passionate about **ERPNext, enterprise software solutions, a
 
 ## 📌 **My Key Projects**  
 
-📍 **ERPNext for Mufamo Trading** – Integrated **inventory, sales, procurement, and accounting** across multiple locations.  
+📍 **ERPNext Implementation** – Integrated **inventory, sales, procurement, and accounting** across multiple locations.  
 📍 **ERPNext & SambaPOS Integration** – Developed a **real-time inventory sync** between ERPNext and POS systems.  
 📍 **Cloud ERP Deployment** – Set up a **multi-tenant ERPNext environment** on DigitalOcean for SMEs.  
 📍 **Custom ERP Modules** – Built custom **tax compliance** and **financial reporting** features.  
