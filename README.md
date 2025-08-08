@@ -8,10 +8,10 @@ I'm a **developer** passionate about **enterprise software solutions**. I specia
 
 ## 🔥 **What I Do**  
 
-✔ **ERP Implementation & Customization** – Tailoring ERPNext to fit business needs, from **inventory management** to **financial reporting** to **Accounting**.  
-✔ **Software Development** – Building scalable web apps, APIs, and enterprise solutions.  
-✔ **System Integration** – Connecting ERPs with third-party tools like **communication tools, CRM systems** and **payment gateways (M-Pesa)**.  
-✔ **IT Consultancy & Advisory** – Helping businesses adopt **modern software solutions** and improve efficiency and streamline operations. 
+✔ **ERP Implementation & Customization – Tailoring ERPNext to fit business needs, from inventory management to financial reporting to Accounting.  
+✔ Software Development – Building scalable web apps, APIs, and enterprise solutions.  
+✔ System Integration – Connecting ERPs with third-party tools like communication tools, CRM systems and payment gateways (M-Pesa).  
+✔ IT Consultancy & Advisory – Helping businesses adopt **modern software solutions** and improve efficiency and streamline operations. 
 ---
 
 ## 🛠 **Tech Stack**  
