@@ -2,34 +2,24 @@
 
 🚀 **ERP & Software Developer | IT Consultant | Digital Transformation Specialist**  
 
-I'm a **developer** passionate about **ERPNext, enterprise software solutions, and IT consulting**. I specialize in **ERP implementation, customization, and integrations**, helping businesses streamline operations through **automation and digital transformation**.  
+I'm a **developer** passionate about **enterprise software solutions**. I specialize in **development, implementation, customization and integrations of ERPs**, helping businesses streamline operations through **automation and digital transformation**.  
 
 ---
 
 ## 🔥 **What I Do**  
 
-✔ **ERPNext Implementation & Customization** – Tailoring ERPNext to fit business needs, from **inventory management** to **financial reporting**.  
+✔ **ERP Implementation & Customization** – Tailoring ERPNext to fit business needs, from **inventory management** to **financial reporting** to **Accounting**.  
 ✔ **Software Development** – Building scalable web apps, APIs, and enterprise solutions.  
-✔ **System Integration** – Connecting ERPNext with third-party tools like **POS systems (SambaPOS)** and **payment gateways (M-Pesa)**.  
-✔ **IT Consultancy & Advisory** – Helping businesses adopt **cloud solutions** and improve efficiency.  
-
----
-
-## 📌 **My Key Projects**  
-
-📍 **ERPNext Implementation** – Integrated **inventory, sales, procurement, and accounting** across multiple locations.  
-📍 **ERPNext & SambaPOS Integration** – Developed a **real-time inventory sync** between ERPNext and POS systems.  
-📍 **Cloud ERP Deployment** – Set up a **multi-tenant ERPNext environment** on DigitalOcean for SMEs.  
-📍 **Custom ERP Modules** – Built custom **tax compliance** and **financial reporting** features.  
-
+✔ **System Integration** – Connecting ERPs with third-party tools like **communication tools, CRM systems** and **payment gateways (M-Pesa)**.  
+✔ **IT Consultancy & Advisory** – Helping businesses adopt **modern software solutions** and improve efficiency and streamline operations. 
 ---
 
 ## 🛠 **Tech Stack**  
 
-🔹 **ERP Platforms**: ERPNext, Frappe Framework  
-🔹 **Programming**: Python, JavaScript (React.js, Node.js)  
-🔹 **Databases**: MariaDB, MySQL  
-🔹 **Cloud & DevOps**: DigitalOcean, Docker, Nginx  
+🔹 **ERP Platforms**: ERPNext, ZOHO, Odoo
+🔹 **Programming**: Python, JavaScript (React.js, Node.js), PHP (Laravel)  
+🔹 **Databases**: MariaDB, PostgreSQL
+🔹 **Cloud & DevOps**: DigitalOcean, AWS, Microsoft Azure  
 🔹 **Version Control**: Git, GitHub  
 
 ---
@@ -38,6 +28,5 @@ I'm a **developer** passionate about **ERPNext, enterprise software solutions, a
 
 💼 [LinkedIn](https://www.linkedin.com/in/njoroge-francis)  
 📧 franciskamande2001@gmail.com  
-🌍 [Portfolio](https://francis450.github.io/portfolio)  
 
-🚀 Always open to **collaborations, consultations, and freelance projects!**  
+🚀 Always open to **collaborations, consultations and open-source projects!**  
